@@ -4,9 +4,9 @@
 Intertegular distance is measured based on Cane, 1987
 
 ## protocols
-*Crowd source measurements via Notes from Nature:* using a custom measurement tool in Notes From Nature. Five measurements are created from five different users on Notes from Nature. Measurements are reconciled
+**Crowd source measurements via Notes from Nature:** using a custom measurement tool in Notes From Nature. Five measurements are created from five different users on Notes from Nature. Measurements are reconciled
 
-*Measured under microscope:* measured under microscope using graticule.
+**Measured under microscope:** measured under microscope using graticule.
 
 
 ## references
