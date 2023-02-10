@@ -3,6 +3,9 @@
 ## trait definition
 Intertegular distance is measured based on Cane, 1987
 
+## Ontology class
+http://purl.obolibrary.org/obo/HAO_0002584
+
 ## protocols
 **Crowd source measurements via Notes from Nature:** using a custom measurement tool in Notes From Nature. Five measurements are created from five different users on Notes from Nature. Measurements are reconciled
 
