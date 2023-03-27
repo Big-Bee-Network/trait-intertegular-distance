@@ -1,5 +1,7 @@
 # trait-intertegular-distance
 
+[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/Big-Bee-Network/trait-intertegular-distance/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/Big-Bee-Network/trait-intertegular-distance)
+
 ## trait definition
 Intertegular distance is measured based on Cane, 1987
 
