@@ -2,7 +2,14 @@
 
 [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/Big-Bee-Network/trait-intertegular-distance/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/Big-Bee-Network/trait-intertegular-distance)
 
-Repository with datasets measuring intertegular distance from the Big Bee project 
+Repository with datasets measuring intertegular distance from the [Big Bee project](https://big-bee.net). Measurements were recorded using Notes From Nature data portal and microscope measurements. 
+
+## data description
+Each folder contains several files:
+* 22794_reconciled.csv - reconciled using Notes from Nature
+* 22794_summary.html - Summary of the data collection including number of people who participated online
+* 22794_unreconciled.csv - unreconciled data, suggested to use this file for evaluating datasets
+* ucsbees-measurements-classifications.csv - ?
 
 ## trait definition
 Intertegular distance is measured based on Cane, 1987
